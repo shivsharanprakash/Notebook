@@ -3,7 +3,7 @@ import author1 from '../assets/Images/author1.jpeg'
 import author2 from '../assets/Images/author-2.jpeg'
 import author3 from '../assets/Images/author-3.jpg'
 
-
+// this is About Page 
 const About = () => {
 
   const imageStyle = {
